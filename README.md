@@ -1,9 +1,5 @@
 <!-- Your title -->
 ## Hi, I'm Nour, a UI/UX Designer & Front-End Developer 👩‍💻
-
-<!-- Badges -->
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:houda10724g@gmail.com)
-
 &nbsp;
 
 <!-- About Me -->
@@ -22,26 +18,30 @@
 
 ### 🛠️ Skills & Tools
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <!-- Front-end -->
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+
+  <br/>
+
+  <!-- Frameworks -->
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+
+  <br/>
+
+  <!-- Design tools -->
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"></code>
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg"></code>
+
+  <br/>
+
+  <!-- Collaboration & Version Control -->
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img alt="Nour's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lotus10724&show_icons=true&hide_border=true&theme=radical" />
-</p>
----
 
 ### 💌 Contact Me
 - Email: houda10724g@gmail.com 
