@@ -42,6 +42,17 @@
   <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 </p>
 
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nour10724&theme=tokyonight" />
+</p>
+
+
+
+---
+
 
 ### - 📫 How to reach me: 
 - Email: houda10724g@gmail.com
