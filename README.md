@@ -45,7 +45,7 @@
 
 ### - 📫 How to reach me: 
 - Email: houda10724g@gmail.com
-- LinkedIn:(https://www.linkedin.com/in/nou-r-b92038303/)
+- LinkedIn: https://www.linkedin.com/in/nou-r-b92038303/
 
 
   
