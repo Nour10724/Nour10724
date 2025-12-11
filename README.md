@@ -1,48 +1,53 @@
-# Hi there 👋, I’m **Nour**
+<!-- Your title -->
+## Hi, I'm Nour, a UI/UX Designer & Front-End Developer 👩‍💻
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
-</p>
-
+<!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lotus10724)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lotus10724/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lotus10724/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D44638?style=flat&logo=Gmail&logoColor=white)](mailto:lotus10724@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lotus10724/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lotus10724/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lotus10724@gmail.com)
+
+&nbsp;
+
+<!-- About Me -->
+**About Me:**
+
+<img width="55%" align="right" alt="Design & Code" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👩‍💻 I’m currently working on **front-end web projects & UI/UX designs**  
+- 🌱 Learning **React.js**, **Figma Prototyping**, **Advanced CSS Animations**  
+- 🎨 Looking to collaborate on **design & web projects** 🤝  
+- 💬 Ask me about **UI/UX, Web Design, or Front-End Development**  
+- ⚡ Fun Fact: I love **turning creative ideas into interactive websites**  
+- 📫 How to reach me: lotus10724@gmail.com  
 
 ---
 
-## 👩‍💻 About Me
-I’m **Nour**, a passionate **UI/UX Designer**, **Web Designer**, and **Front-End Developer**. I create **beautiful, responsive, and user-friendly interfaces** that bring ideas to life.  
-
-- 🌱 Learning **React.js**, **Advanced CSS Animations**, and **Figma Prototyping**  
-- 🎨 Open to collaborate on design & web projects  
-- 💬 Ask me anything about web design, UI/UX, or front-end development  
-- ⚡ Fun Fact: I love turning **creative ideas into interactive experiences**  
-
----
-
-## 🛠️ Skills & Tools
-<p align="center">
-  <img width="60" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg" />
-  <img width="60" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg" />
-  <img width="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
-  <img width="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-  <img width="60" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
-  <img width="60" src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-ar21.svg" />
-  <img width="60" src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-ar21.svg" />
+### 🛠️ Skills & Tools
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img alt="Nour's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lotus10724&show_icons=true&hide_border=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotus10724&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🌟 Projects
+### 🌟 Projects
 <p align="center">
   <a href="https://github.com/lotus10724/project1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lotus10724&repo=project1&theme=radical" />
@@ -54,12 +59,10 @@ I’m **Nour**, a passionate **UI/UX Designer**, **Web Designer**, and **Front-E
 
 ---
 
-## 💌 Contact Me
+### 💌 Contact Me
 - Email: lotus10724@gmail.com  
 - LinkedIn: [lotus10724](https://www.linkedin.com/in/lotus10724/)  
 - Instagram: [lotus10724](https://www.instagram.com/lotus10724/)  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsW2UE7iE2rqQfC/giphy.gif" width="200"/>
-</p>
+
 
