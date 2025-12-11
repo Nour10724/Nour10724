@@ -2,10 +2,7 @@
 ## Hi, I'm Nour, a UI/UX Designer & Front-End Developer 👩‍💻
 
 <!-- Badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lotus10724)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lotus10724/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lotus10724/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lotus10724@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:houda10724g@gmail.com)
 
 &nbsp;
 
@@ -44,25 +41,11 @@
 <p align="center">
   <img alt="Nour's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lotus10724&show_icons=true&hide_border=true&theme=radical" />
 </p>
-
----
-
-### 🌟 Projects
-<p align="center">
-  <a href="https://github.com/lotus10724/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lotus10724&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/lotus10724/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lotus10724&repo=project2&theme=radical" />
-  </a>
-</p>
-
 ---
 
 ### 💌 Contact Me
-- Email: lotus10724@gmail.com  
-- LinkedIn: [lotus10724](https://www.linkedin.com/in/lotus10724/)  
-- Instagram: [lotus10724](https://www.instagram.com/lotus10724/)  
+- Email: houda10724g@gmail.com 
+  
 
 
 
