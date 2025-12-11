@@ -1,8 +1,6 @@
 <!-- Your title -->
 ## Hi, I'm Nour, a UI/UX Designer & Front-End Developer 👩‍💻
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nou-r-b92038303/)
-
 &nbsp;
 
 <!-- About Me -->
@@ -15,7 +13,6 @@
 - 🎨 Looking to collaborate on **design & web projects** 🤝  
 - 💬 Ask me about **UI/UX, Web Design, or Front-End Development**  
 - ⚡ Fun Fact: I love **turning creative ideas into interactive websites**  
-- 📫 How to reach me: lotus10724@gmail.com  
 
 ---
 
@@ -46,8 +43,10 @@
 </p>
 
 
-### 💌 Contact Me
+### - 📫 How to reach me: 
 - Email: houda10724g@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/nou-r-b92038303/)
+
 
   
 
