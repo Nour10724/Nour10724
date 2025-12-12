@@ -26,7 +26,8 @@
   <br/>
 
   <!-- Frameworks -->
-  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  
+  <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
 
   <br/>
 
@@ -41,14 +42,6 @@
   <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 </p>
-
-## 📊 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nour10724&theme=tokyonight" />
-</p>
-
-
 
 
 ---
